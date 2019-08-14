@@ -1,8 +1,8 @@
 # Lecture slides overview
 
 ## What is a graph
-- What is graphs/networks?
-  - vertices + edges
+- What are graphs/networks?
+  - vertices & edges
 - Examples of connectomes
   - humans: vertices = brain regions; edges = connection strength
   - dros: vertices = neurons; edges = ?
