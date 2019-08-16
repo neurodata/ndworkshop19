@@ -1,0 +1,108 @@
+%%%
+%%% Jesse Leigh Patsolic
+%%% 2019 <Jesse.L.Patsolic@alumni.wfu.edu>
+%%% S.D.G
+\documentclass[xcolor=dvipsnames]{beamer}
+
+\usepackage{beamerthemesplit, listings, verbatim}
+\usepackage{setspace}
+\usepackage[english]{babel}
+\usepackage{blindtext, lipsum}
+
+\setbeamertemplate{navigation symbols}{} % turns nav syms off
+\definecolor{ndbg}{RGB}{27, 28, 22}
+\definecolor{jhugold}{RGB}{207, 181, 59}
+\definecolor{rpurple}{RGB}{75,24,112}
+\definecolor{wfugold}{rgb}{0.60,0.48,0.19}
+\definecolor{jhublue}{RGB}{0,51,127}
+\usecolortheme[named=jhublue]{structure}
+\usetheme{Berlin}%Darmstadt}%Warsaw} 
+%\logo{\includegraphics[width=1.0cm]{wlshb.pdf}}
+
+\setbeamercolor{normal text}{fg=white,bg=ndbg}
+\setbeamercolor{structure}{fg=white}
+
+\setbeamercolor{alerted text}{fg=red!85!black}
+\setbeamercolor{item projected}{use=item,fg=black,bg=item.fg!35}
+\setbeamercolor*{palette primary}{use=structure,fg=structure.fg}
+\setbeamercolor*{palette secondary}{use=structure,fg=structure.fg!95!black}
+\setbeamercolor*{palette tertiary}{use=structure,fg=structure.fg!90!black}
+\setbeamercolor*{palette quaternary}{use=structure,fg=structure.fg!95!black,bg=black!80}
+
+\setbeamercolor*{framesubtitle}{fg=white}
+
+\title[NDWS-2019]{NeuroData Workshop 2019}
+\subtitle[SPORF]{Sparse Projection Oblique Randomer Forests}
+\author[JLP]{Jesse Patsolic}
+\institute[JHU]{Johns Hopkins University}%\includegraphics[width=0.3\textwidth]{wlshb.pdf}   
+\date[20190820]{20 August 2019}
+
+\begin{document}
+\begin{frame}
+\titlepage
+\end{frame}
+
+%\begin{frame}{Contents}
+%\tableofcontents
+%\end{frame}
+
+
+\section{Introduction}
+
+\begin{frame}{Usefull Links}
+    SPORF $\equiv$ RERF
+    \begin{itemize}
+        \item \href{https://gigantum.com/neurodata/rerf}{Gigantum Project}
+        \item \href{https://neurodata.io/sporf/}{SPORF: neurodata.io/sporf/}
+        \item \href{https://rerf.neurodata.io}{DOCS: https://rerf.neurodata.io}
+        \item \href{https://rerf.neurodata.io/demos.html}{DEMOS: https://rerf.neurodata.io/demos.html}
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Gigantum}
+    \begin{itemize}
+        \item Use Chrome or Firefox to open \href{https://rerf.gigantumdemo.com}{Gigantum.io} and create a login.
+        \item \textbf{Import Existing} using this zip file:
+            \href{http://cis.jhu.edu/~jesse/gigantum/rerf-9f82cd.zip}{Gigantum:Neurodata:RerF}
+            [Not the final version]
+    \end{itemize}
+\end{frame}
+
+
+\section{Demos}
+
+\begin{frame}{}
+    \begin{enumerate}
+        \item basic usage
+            
+    \end{enumerate}
+\end{frame}
+
+\begin{frame}{Data}
+    When running your own data:
+    \begin{itemize}
+        \item Labels must be equivalent to $\{0, \dots, k-1\}$, for $k$-classes.
+        \item Data must be continuous, i.e. non-categorical.
+    \end{itemize}
+\end{frame}
+
+
+\section{Supervised Classification}
+\begin{frame}{Supervised Classification}
+
+\end{frame}
+
+
+
+\section{Unsupervised Classification}
+\begin{frame}{Unsupervised Classification}
+
+\end{frame}
+
+\end{document}
+
+%%%
+%%% TIME: 
+%%% WORKING STATUS:
+%%% COMMENTS:
+%%% Soli Deo Gloria
