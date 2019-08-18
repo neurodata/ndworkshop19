@@ -5,7 +5,7 @@
   - vertices & edges
 - Examples of connectomes
   - humans: vertices = brain regions; edges = connection strength
-  - dros: vertices = neurons; edges = ?
+  - dros: vertices = neurons; edges = synapses
 
 ## Models
 
