@@ -23,3 +23,4 @@
 - Specify more clearly that we also want feedback from people on our tools in terms of usability 
 - Introduce everyone (people in the lab and people who are visiting). It would be especially useful to know what the people who are visiting are interested in. I'd also like to know a little bit more about the background of the group while planning the workshop, so maybe have a survey of experience/interest as part of the workshop registration 
 - might as well reach out to developers of other big packages besides sklearn? scipy, networkx, etc. 
+- have better examples of the utility of each of our tools (application to real world data) during the main talk
