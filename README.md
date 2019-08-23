@@ -2,6 +2,7 @@
 
 ## Notes from 2019 Workshop
 
+- Feedback form: https://forms.gle/x1Sp26qMsMqkdGY57
 - Let's prepare people better, specifically:  
   - Clarify that in the afternoon, we want to be working on their data
   - This requires us having fixed specs for each day's analysis, which we'd need to codify at a minimum, a few months in advance
