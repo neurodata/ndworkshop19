@@ -19,3 +19,9 @@
   - maybe day 5 is big data storage/management/visualization?
 - Maybe i should give every talk? let's get feedback on the talk quality?
 - Maybe we should get explicit funding for this, we could easily get up to $100k from NSF i would think.
+- Add some (optional) social time in. A lot of the value of this was meeting/talking to collaborators but I think it would be fun to (at least once) go out to eat/drink/hang out in a non-work environment 
+- Advertise better, since most people in the lab will be giving up ~ a week to this 
+- Specify more clearly that we also want feedback from people on our tools in terms of usability 
+- Introduce everyone (people in the lab and people who are visiting). It would be especially useful to know what the people who are visiting are interested in. I'd also like to know a little bit more about the background of the group while planning the workshop, so maybe have a survey of experience/interest as part of the workshop registration 
+- might as well reach out to developers of other big packages besides sklearn? scipy, networkx, etc. 
+- have better examples of the utility of each of our tools (application to real world data) during the main talk
