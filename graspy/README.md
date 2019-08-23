@@ -1,5 +1,8 @@
 # Graspy
 
+## Slides
+Can be viewed here: [https://neurodata.io/talks/ndworkshop_graphs.html](https://neurodata.io/talks/ndworkshop_graphs.html)
+
 
 ##  [Gigantum:](https://neurodata.gigantumdemo.com)
 
